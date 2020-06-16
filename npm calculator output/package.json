@@ -1,0 +1,8 @@
+{
+  "name": "calculator-output",
+  "version": "1.0.0",
+  "main":"output.js",
+  "dependencies": {
+    "npm-calculator-example-js": "^1.0.1"
+  }
+}
